@@ -33,7 +33,7 @@ const NavBar: React.FC = () => {
     ],
     "Publish": [
       { text: "Submit your article", href: "#submit-article" },
-      { text: "Guide for authors", href: "#guide-authors" },
+      { text: "Guide for authors", href: "guide_for_authors" },
       { text: "Call for papers", href: "#call-papers" },
       { text: "Policies and Guidelines", href: "#policies-guidelines" },
       { text: "Open access options", href: "#open-access" },

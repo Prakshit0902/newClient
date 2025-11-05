@@ -80,6 +80,7 @@ function App() {
             <Route path="/aims-and-scope" element={<AimsAndScope />} />
             <Route path="/publish/guide-for-authors" element={<GuideForAuthors />} />
             <Route path="/submit-article" element={<SubmitArticle />} />
+            <Route path="/guide_for_authors" element={<GuideForAuthors />} />
           </Routes>
         </main>
 
